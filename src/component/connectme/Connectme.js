@@ -33,18 +33,13 @@ const Connectme = () => {
       link:"https://leetcode.com/anand_9055/"
     },
     {
-      image:netlify,
-      name:"Netlify",
-      link:"https://app.netlify.com/teams/anand905536/sites"
-    },
-    {
       image:gmail,
       name:"Gmail",
       link:""
     },{
       image:vercel,
       name:"Vercel",
-      link:""
+      link:"https://vercel.com/dashboard"
     }
   ])
 
