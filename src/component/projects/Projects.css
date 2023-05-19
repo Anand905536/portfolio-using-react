@@ -1,0 +1,21 @@
+.image_project{
+    width:200px;
+    height:200px;
+    margin-left: 22.4%;
+    margin-top: 10px;
+    color:white;
+    /* background-color: rgb(62, 59, 59); */
+}
+.skill_p{
+    font-size: 14px;;
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width:auto;
+    padding:10px;
+    margin-top:10px;
+}
+.skill_p:hover{
+    cursor: pointer;
+}

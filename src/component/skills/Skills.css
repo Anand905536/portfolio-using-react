@@ -1,0 +1,25 @@
+
+.line_inside_skills{
+    background-color:rgb(56, 16, 11);
+    height:.8px;
+    opacity:.6;
+    width:80%;
+    margin-left: 15%;
+   
+    margin-bottom: -30px;;
+    /* position: relative; */
+}
+.skill_image {
+    width: 70px;
+    height: 70px;
+    margin-left: 15%;
+    transition: transform 400ms, opacity 400ms;
+  }
+  
+  .skill_image:hover {
+    cursor: pointer;
+    transform: translateY(-7px);
+    transition: transform 800ms, opacity 400ms;
+    /* color:rgb(125, 123, 123) */
+  }
+  

@@ -1,0 +1,15 @@
+.line_inside_certification{
+    background-color:rgb(56, 16, 11);
+    height:.8px;
+    opacity:.6;
+    width:75%;
+    margin-left: 20%;
+    margin-bottom: -30px;;
+    color:rgb(215, 215, 215)
+}
+.image_certification{
+    width:200px;
+    height:200px;
+    margin-left: 22.4%;
+    margin-top: 30px;
+}

@@ -1,0 +1,28 @@
+.image{
+    width:350px;
+    height:auto;
+    margin-left: 230px;
+    margin-top: 40px;
+    /* border-radius: 50%;; */
+    
+}
+.image{
+    animation:up-down 2s ease-in-out infinite alternate-reverse both;
+}
+@-webkit-keyframes up-down{
+    0%{
+      transform:translateY(5px);
+    }
+    100%{
+      transform:translateY(-5px);
+    }
+  }
+  
+  @keyframes up-down{
+    0%{
+      transform:translateY(5px);
+    }
+    100%{
+      transform:translateY(-8px);
+    }
+  }

@@ -1,0 +1,26 @@
+.line_in_connect{
+    background-color:rgb(56, 16, 11);
+    height:.8px;
+    opacity:.6;
+    width:99.7%;
+}
+.connection_logo{
+    width:70px;
+    height:70px;
+    border-radius: 4px;;
+    transition: transform 400ms, opacity 400ms;
+}
+
+.p_inside_connection{
+    margin-top: 4px;;
+    color:white;
+    text-align: center;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.connection_logo:hover{
+   cursor:pointer;
+   transform: translateY(-7px);
+   transition: transform 800ms, opacity 400ms;
+}
