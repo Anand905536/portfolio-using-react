@@ -20,7 +20,9 @@ const Skills = () => {
     pic: html,
   }, { skill: "CSS 3", pic: css }, { skill: "Javascript", pic: js }, { skill: "React", pic: react }
     , { skill: "Redux", pic: redux }, { skill: "c++", pic: cpp }, { skill: "DSA", pic: dsa }, 
-    { skill: "Java", pic: java }, { skill: "MUI 5", pic: mui }, { skill: "Git", pic: git }])
+    { skill: "Java", pic: java }, { skill: "MUI 5", pic: mui }, { skill: "Git", pic: git },
+    
+  ])
   return (
     <Box id="elementskills" sx={{ marginTop: "200px", height: "200px" }}>
       <hr className='line_inside_skills' />

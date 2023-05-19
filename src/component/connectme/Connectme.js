@@ -41,6 +41,10 @@ const Connectme = () => {
       image:gmail,
       name:"Gmail",
       link:""
+    },{
+      image:netlify,
+      name:Vercel,
+      link:""
     }
   ])
 
