@@ -43,7 +43,7 @@ const Connectme = () => {
       link:""
     },{
       image:netlify,
-      name:Vercel,
+      name:"Vercel",
       link:""
     }
   ])
