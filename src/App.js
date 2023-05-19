@@ -19,3 +19,8 @@ function App() {
 }
 
 export default App;
+
+
+// git remote add origin https://github.com/Anand905536/Portfolio_using_react.git
+// git branch -M main
+// git push -u origin main
