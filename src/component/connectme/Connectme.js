@@ -7,7 +7,7 @@ import gfg from '../assets/gfg.jpg'
 import leetcode from '../assets/leetcode.png'
 import netlify from '../assets/netlify.png'
 import gmail from '../assets/gmail.png'
-
+import vercel from '../assets/vercel.jpg'
 
 
 const Connectme = () => {
@@ -42,7 +42,7 @@ const Connectme = () => {
       name:"Gmail",
       link:""
     },{
-      image:netlify,
+      image:vercel,
       name:"Vercel",
       link:""
     }
